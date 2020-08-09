@@ -1,0 +1,11 @@
+/home/suhail/embed-rust-projects/11-usart/target/rls/thumbv7em-none-eabihf/debug/deps/generic_array-162069850b286b14.rmeta: /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/lib.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/hex.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/impls.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/arr.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/iter.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/sequence.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/functional.rs
+
+/home/suhail/embed-rust-projects/11-usart/target/rls/thumbv7em-none-eabihf/debug/deps/generic_array-162069850b286b14.d: /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/lib.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/hex.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/impls.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/arr.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/iter.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/sequence.rs /home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/functional.rs
+
+/home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/lib.rs:
+/home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/hex.rs:
+/home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/impls.rs:
+/home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/arr.rs:
+/home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/iter.rs:
+/home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/sequence.rs:
+/home/suhail/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.11.1/src/functional.rs:

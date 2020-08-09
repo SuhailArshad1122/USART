@@ -1,0 +1,1 @@
+/home/suhail/embed-rust-projects/11-usart/target/thumbv7em-none-eabihf/release/usart: /home/suhail/embed-rust-projects/11-usart/auxiliary/src/lib.rs /home/suhail/embed-rust-projects/11-usart/src/main.rs

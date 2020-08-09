@@ -1,0 +1,1 @@
+{"rustc":15199935378135370970,"features":"","target":0,"profile":0,"path":0,"deps":[[3607087031782722841,"build_script_build",false,12444829160643039059]],"local":[{"RerunIfChanged":{"output":"thumbv7em-none-eabihf/release/build/stm32f30x-11f272bbe0512260/output","paths":["device.x","build.rs"]}}],"rustflags":[],"metadata":0}

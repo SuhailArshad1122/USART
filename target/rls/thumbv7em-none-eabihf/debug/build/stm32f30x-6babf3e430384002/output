@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/suhail/embed-rust-projects/11-usart/target/rls/thumbv7em-none-eabihf/debug/build/stm32f30x-6babf3e430384002/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs
